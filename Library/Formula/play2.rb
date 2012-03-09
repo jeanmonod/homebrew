@@ -2,8 +2,8 @@ require 'formula'
 
 class Play2 < Formula
   homepage 'http://www.playframework.org/2.0'
-  url 'http://download.playframework.org/releases/play-2.0-RC2.zip'
-  md5 '8319bdefbad86c9f58d71b24c029a668'
+  url 'http://download.playframework.org/releases/play-2.0-RC3.zip'
+  md5 '0767d7b9bdf98dcfac2294f1d3036755'
 
   def install
 
